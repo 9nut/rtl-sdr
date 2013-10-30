@@ -4,3 +4,11 @@ turns your Realtek RTL2832 based DVB dongle into a SDR receiver
 
 For more information see:
 http://sdr.osmocom.org/trac/wiki/rtl-sdr
+
+rtl_acars.c is the work of Andreas Reinhardt based on an earlier
+work by Thierry Leconte (acarsdec - GPL). the original announcement
+is included below, although the original pastebin link doesn't seem
+to exist anymore.  the version in this repo includes a few bug fixes.
+
+http://comments.gmane.org/gmane.comp.mobile.osmocom.sdr/193
+
